@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Alex</h1>
+<h1 align="center"> Hi 👋, I'm Alex</h1>
 <h3 align="center">Engineering intelligence for the decentralized age</h3>
 <p align="center"><i>...building machines that think, fly, and evolve.</i></p>
 
