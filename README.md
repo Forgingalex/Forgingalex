@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" height="300" src="https://i.postimg.cc/QM2WdkHQ/Nous.jpg"/>
+<img align="right" height="150" src="https://i.postimg.cc/QM2WdkHQ/Nous.jpg"/>
 
 ### About  
 AI and robotics builder focused on autonomy, vision, and edge intelligence.  
