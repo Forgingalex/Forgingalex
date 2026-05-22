@@ -15,7 +15,7 @@ Humanity is gaining powerful intelligence but losing sovereignty over thought as
 
 | System | Domain | Technical Implementation |
 | :--- | :--- | :--- |
-| **AEROS** | **Visual Autonomy** | Engineered a camera only perception pipeline achieving sub 100ms end to end latency. Utilized a lightweight CNN for heading regression integrated with PID control loops for real time drone navigation in deterministic PyBullet environments. |
+| **AEROS** | **Edge Robotics** | Engineered an authoritative edge robotics operating system utilizing a decoupled heartbeat runtime and temporal contrast perception. Implemented zero state flight instrumentation and predictive motion modeling to maintain sub 5ms stage latency for real time autonomous control. |
 | **ForgeAI** | **Cognitive Memory** | Architected a local first RAG system utilizing a dual model failover strategy. Focused on optimizing vector retrieval and persistent knowledge architectures to overcome human working memory constraints. |
 | **ORION** | **Embodied AI** | Orchestrated a 14 axis mechatronic assembly system. Implemented industrial S curve trajectory smoothing and gated mechanical execution through decentralized settlement verification to enable machine to machine commerce. |
 | **ARGUS** | **Privacy AI** | Developed a Federated Learning framework for industrial telemetry. Implemented FedAvg and FedProx from scratch in PyTorch to achieve a 42.9 percent accuracy gain while maintaining absolute participant data sovereignty. |
