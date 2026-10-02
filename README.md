@@ -38,4 +38,4 @@ Decentralized Financial Settlement | Machine Identity Protocols | Federated Lear
 ### Reach
 [X / Twitter](https://x.com/forgingalex) | [Technical Portfolio](https://forgingalex.github.io)
 
-<p align="center"><i>"Jarvis was fiction. Aegis isn’t."</i></p>
+<p align="center"><i>"Jarvis was fiction. aeros isn’t."</i></p>
